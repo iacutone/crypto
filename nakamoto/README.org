@@ -1,0 +1,3 @@
+My answers to the Nakamoto Crypto challenge:
+
+[[Link][https://nakamoto.com/introduction-to-cryptocurrency/]]
